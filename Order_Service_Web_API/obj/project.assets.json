@@ -2480,11 +2480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\2.0\\Udemy\\Arical\\Order_Service_Web_API\\Order_Service_Web_API.csproj",
+      "projectUniqueName": "E:\\Study\\2.0\\Git Copy\\ASP_Dot_Net_Web_API\\Order_Service_Web_API\\Order_Service_Web_API.csproj",
       "projectName": "Order_Service_Web_API",
-      "projectPath": "E:\\Study\\2.0\\Udemy\\Arical\\Order_Service_Web_API\\Order_Service_Web_API.csproj",
+      "projectPath": "E:\\Study\\2.0\\Git Copy\\ASP_Dot_Net_Web_API\\Order_Service_Web_API\\Order_Service_Web_API.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\2.0\\Udemy\\Arical\\Order_Service_Web_API\\obj\\",
+      "outputPath": "E:\\Study\\2.0\\Git Copy\\ASP_Dot_Net_Web_API\\Order_Service_Web_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

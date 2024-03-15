@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q48X65qoIN12jJPxJ8q5Fiw6sHIkMbviVUFWC8eyYZtyvUTp504DIlsOpSS7TQmM0IWyBFdvpGCp7eQcdzpQug==",
+  "dgSpecHash": "QrR7uqMXb7/NifE/4rUC7SlH1UwFnNfjZtqCngvbX/svUNSU7el89sfuvNq5viJ1cwx71eGEHxED9cN/N0Udhw==",
   "success": true,
-  "projectFilePath": "E:\\Study\\2.0\\Udemy\\Arical\\Order_Service_Web_API\\Order_Service_Web_API.csproj",
+  "projectFilePath": "E:\\Study\\2.0\\Git Copy\\ASP_Dot_Net_Web_API\\Order_Service_Web_API\\Order_Service_Web_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

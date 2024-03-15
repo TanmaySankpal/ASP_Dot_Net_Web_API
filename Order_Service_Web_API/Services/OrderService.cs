@@ -55,6 +55,7 @@ namespace Order_Service_Web_API.Services
                     _temp.Notes = OrderModel.Notes;
                     _temp.PaymentMethod = OrderModel.PaymentMethod;
                     _temp.ShippingMethod = OrderModel.ShippingMethod;
+                    model.Messsage_Detail = "Order Update Successfully";
                 }
                 else
                 {
