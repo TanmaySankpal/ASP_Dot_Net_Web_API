@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreWebAPIDemo", "ASPNetCoreWebAPIDemo.csproj", "{B555EA01-254F-4EC0-850F-99712925CB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B555EA01-254F-4EC0-850F-99712925CB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B555EA01-254F-4EC0-850F-99712925CB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B555EA01-254F-4EC0-850F-99712925CB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B555EA01-254F-4EC0-850F-99712925CB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA660020-1B6C-431D-9D26-D60C6F6AB25B}
+	EndGlobalSection
+EndGlobal
